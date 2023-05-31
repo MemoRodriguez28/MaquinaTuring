@@ -57,7 +57,7 @@ class MT:
             elif y[1] == 'L':
                 self.posCabeza -= 1 #self.posCabeza = self.posCabeza - 1
             
-            #Pasar al sig estado
+            #Pasar al siguiente estado
             self.estadoActual = y[2]
             
             
